@@ -12,5 +12,6 @@ El propósito principal es gestionar todas las deudas de una persona y permitirl
 
 ## Diseño del Proyecto
 Primero en base a un analisis identifique las entidades de mi sistema, para posterior hacer el diseño de diagramas de clases para tener una base para poder empezar a crear el sistema, aqui una muestra de como se ve el diseño.
-![Diagrama UML](file:///D:\debt-managment.mdj)
+![Diagrama de clases](https://github.com/user-attachments/assets/a254642c-85e2-4d11-a812-96ec4952b908)
+
 

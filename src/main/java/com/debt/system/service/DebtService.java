@@ -3,10 +3,6 @@ package com.debt.system.service;
 import com.debt.system.model.Debt;
 import com.debt.system.model.DebtStatus;
 import com.debt.system.repository.DebtRepository;
-import com.debt.system.model.User;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 
 public class DebtService {
     private final DebtRepository debtRepository;
@@ -42,13 +38,4 @@ public class DebtService {
         }
     }
     
-    public List<Debt> getAllDebtsByUser(User user, List<Debt> allDebts) {
-        List<Debt> debts = new ArrayList<>();
-        for(Debt debt : allDebts) {
-            if(debt.getUser().equals(user)) {
-                debts.add(debt);
-            }
-        }
-        return Collections.unmodifiableList(debts);
-    }
 }

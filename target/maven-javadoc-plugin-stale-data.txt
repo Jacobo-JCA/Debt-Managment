@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/sistema-deudas/debt-system/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/sistema-deudas/debt-system/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'debt-system 1.0.0 API'
+-use
+-version
+-windowtitle
+'debt-system 1.0.0 API'
+com.debt.system.model
+com.debt.system.repository
+com.debt.system.service
+D:\sistema-deudas\debt-system\src\main\java = 1731632996692
+D:\sistema-deudas\debt-system\target\reports\apidocs\allclasses-index.html = 1733520579288
+D:\sistema-deudas\debt-system\target\reports\apidocs\allpackages-index.html = 1733520579299
+D:\sistema-deudas\debt-system\target\reports\apidocs\element-list = 1733520578913
+D:\sistema-deudas\debt-system\target\reports\apidocs\help-doc.html = 1733520579370
+D:\sistema-deudas\debt-system\target\reports\apidocs\index-all.html = 1733520579356
+D:\sistema-deudas\debt-system\target\reports\apidocs\index.html = 1733520579238
+D:\sistema-deudas\debt-system\target\reports\apidocs\jquery-ui.overrides.css = 1733520579425
+D:\sistema-deudas\debt-system\target\reports\apidocs\member-search-index.js = 1733520579311
+D:\sistema-deudas\debt-system\target\reports\apidocs\module-search-index.js = 1733520579302
+D:\sistema-deudas\debt-system\target\reports\apidocs\overview-summary.html = 1733520579362
+D:\sistema-deudas\debt-system\target\reports\apidocs\overview-tree.html = 1733520579227
+D:\sistema-deudas\debt-system\target\reports\apidocs\package-search-index.js = 1733520579305
+D:\sistema-deudas\debt-system\target\reports\apidocs\script.js = 1733520579380
+D:\sistema-deudas\debt-system\target\reports\apidocs\search.js = 1733520579385
+D:\sistema-deudas\debt-system\target\reports\apidocs\stylesheet.css = 1733520579376
+D:\sistema-deudas\debt-system\target\reports\apidocs\tag-search-index.js = 1733520579313
+D:\sistema-deudas\debt-system\target\reports\apidocs\type-search-index.js = 1733520579308

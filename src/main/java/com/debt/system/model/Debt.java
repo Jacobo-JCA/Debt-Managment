@@ -11,13 +11,12 @@ public class Debt {
     private Date expirationDate;
     private double interest;
     private DebtStatus status;
-    private User user;
 
     public Debt() {
     }
 
     public Debt(Long idDebt, double debtAmount, Date initialLoanDate, Date expirationDate, 
-                double interest, DebtStatus status, User user) {
+                double interest, DebtStatus status) {
         this.idDebt = idDebt;
         this.debtAmount = debtAmount;
         this.outstandingAmount = debtAmount;
@@ -25,7 +24,6 @@ public class Debt {
         this.expirationDate = expirationDate;
         this.interest = interest;
         this.status = status;
-        this.user = user;
     }
 
     public Long getIdDebt() {
@@ -83,10 +81,6 @@ public class Debt {
         this.status = status;
     }
 
-    public User getUser() {
-        return user;
-    }
-
     @Override
     public int hashCode() {
         int hash = 3;
@@ -114,6 +108,6 @@ public class Debt {
         return "Debt{" + "idDebt=" + idDebt + ", debtAmount=" + debtAmount 
                 + ", outstandingAmount=" + outstandingAmount + ", initialLoanDate=" 
                 + initialLoanDate + ", expirationDate=" + expirationDate + ", interest=" 
-                + interest + ", status=" + status + ", user=" + user + '}';
+                + interest + ", status=" + status + '}';
     }
 }

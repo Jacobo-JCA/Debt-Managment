@@ -1,1 +1,15 @@
+# Debt Managment System
+
+## Descripción del Proyecto
+El propósito principal es gestionar todas las deudas de una persona y permitirle tomar mejores decisiones al eliminar deudas. Este proyecto comenzará de manera básica, haciendo todo manualmente, y luego migrará hacia tecnologías de automatización. Su objetivo final es evolucionar y automatizar todo con Spring, proporcionando datos concretos mediante un análisis de las deudas, esto irá de manera progresiva asiq ue iran habiendo mas commits.
+
+## Guía de Instalación
+- **Java Development Kit (JDK)**: Versión 17 o superior. [Descárgalo aquí](https://www.oracle.com/java/technologies/javase-downloads.html).
+- **NetBeans IDE**: Versión 13 o superior. [Descárgalo aquí](https://netbeans.apache.org/download/).
+- **Git**: Para clonar el repositorio. [Descárgalo aquí](https://git-scm.com/).
+- **Maven**: Herramienta de construcción y gestión de dependencias. [Descárgalo aquí](https://maven.apache.org/download.cgi).
+- **Dependencias Adicionales**: aun no se a add ninguna, se irá modificando el file
+
+## Diseño del Proyecto
+
 

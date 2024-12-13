@@ -13,10 +13,10 @@ El propósito principal es gestionar todas las deudas de una persona y permitirl
 ## Diseño del Proyecto
 - Primero, realicé un análisis para identificar las entidades clave de mi sistema. Luego, diseñé los diagramas de clases, lo que me permitió tener una base sólida antes de comenzar a codificar. Tener un diseño previo facilita la organización y la toma de decisiones durante el desarrollo. A continuación, se muestra un ejemplo del diseño.
 
-![Diagrama de clases](https://github.com/user-attachments/assets/a254642c-85e2-4d11-a812-96ec4952b908)
+  ![Diagram Class](https://github.com/user-attachments/assets/c9f81297-33c5-460d-9ef0-5e0aa758f204)
 
 - Como siguiente paso, diseñé el modelo lógica de la DB. Elegí PostgreSQL como sistema de gestión de base de datos relacional debido a su robustez, flexibilidad y capacidad para escalar a medida que mi proyecto crece.
 
-![Diseño lógico](https://github.com/user-attachments/assets/f6812fa6-0fe3-4b38-82f4-df85ea935c4a)
+  ![Diseño lógico](https://github.com/user-attachments/assets/f6812fa6-0fe3-4b38-82f4-df85ea935c4a)
 
 
